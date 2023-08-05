@@ -6,7 +6,7 @@
 * Module 7
 * August 3, 2023
 
-The goal of this project is to use the Spotify API to get the lyrics to the top 10 songs from Spotify's Global Top 50 playlist, then perform sentiment analysis on the data. Song data will be saved in JSON files, then sentiment analysis will be done using spacy and spacy text blob.
+The goal of this project is to use the Spotify API to get the lyrics to the top 5 songs from Spotify's Global Top 50 playlist, then perform sentiment analysis on the data. Song data will be saved in JSON files, then sentiment analysis will be done using spacy and spacy text blob.
 
 
 Installations
